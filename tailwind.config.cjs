@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         nunito: ['Nunito'],
       },
+      transitionProperty: {
+        'height': 'height'
+      }
     },
   },
   plugins: [],
